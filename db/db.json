@@ -1,0 +1,64 @@
+{
+  "solicitudes": [
+    {
+      "id": 1,
+      "name": "gustavo",
+      "email": "gustavo@gmail.com",
+      "identification": 321654987,
+      "value": 400000,
+      "dateToPay": "2021-12-12",
+      "approved": true,
+      "paidOut": false
+    },
+    {
+      "id": 2,
+      "name": "adolfo",
+      "email": "adolfo@gmail.com",
+      "identification": 21547989,
+      "value": 50000,
+      "dateToPay": "2022-01-12",
+      "approved": false,
+      "paidOut": false
+    },
+    {
+      "id": 3,
+      "name": "Andres",
+      "email": "andres@gmail.com",
+      "identification": 321654,
+      "value": 400000,
+      "dateToPay": "2022-01-31",
+      "approved": true,
+      "paidOut": true
+    },
+    {
+      "id": 4,
+      "name": "Catalina",
+      "email": "catalina@gmail.com",
+      "identification": 987654,
+      "value": 400000,
+      "dateToPay": "2022-02-12",
+      "approved": true,
+      "paidOut": true
+    },
+    {
+      "name": "asdsdd",
+      "email": "ass@gmail.com",
+      "identification": 3424,
+      "value": 88000,
+      "dateToPay": "2021-11-09T05:00:00.000Z",
+      "approved": true,
+      "paidOut": true,
+      "id": 5
+    },
+    {
+      "name": "prueba solicitud de credito",
+      "email": "asas@gmail.com",
+      "identification": 324324434,
+      "value": 51000,
+      "dateToPay": "2021-11-17T05:00:00.000Z",
+      "approved": true,
+      "paidOut": true,
+      "id": 6
+    }
+  ]
+}
